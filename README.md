@@ -30,7 +30,17 @@ Through this project, we hope to make robotic ceramic fabrication more accessibl
 <img src="images/status/arm-status-2026-11-24-1355.jpg" alt="reBot B601-RS (ARM3) with the printed clay extruder body mounted on the wrist, 2026-11-24 13:55 EST" width="480">
 </p>
 
-See [docs/03-clay-extruder.md](docs/03-clay-extruder.md#status-log) for the full status log.
+### Progress — as of 2026-11-24, 16:18 EST
+
+What we've done so far:
+
+- ✅ **Mac set up and talking to the arm:** Miniforge + MotorBridge, PCAN-USB driver (PCBUSB). All 7 RobStride motors answer on the CAN bus.
+- ✅ **Calibration:** zero calibration and motor parameters in MotorBridge Studio. Per-motor zero re-set after swapping arms.
+- ✅ **Teleoperation** with the reBot Arm 102 leader arm in SenseCraft Robotics.
+- ✅ **Motor 7 (auger drive) tests:** 90° turn, a full 360° revolution, and a **continuous 30 s spin at 7.5 RPM (≈ 3.9 turns)**, run from our own Python script. **We can now run auger spin tests.**
+- 🔜 Next: spin the auger with clay off the arm (flow vs. RPM), then arm path tests (`circle_test.py`) and synchronised extrusion.
+
+Scripts and how to run them: [software/](software/). Full status log: [docs/03-clay-extruder.md](docs/03-clay-extruder.md#status-log).
 
 ## Contents
 

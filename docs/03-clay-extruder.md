@@ -8,6 +8,7 @@ Work in progress: turning the reBot B601-RS into a clay/paste 3D printer with an
 
 | Date / time | Status | Photo |
 |---|---|---|
+| **2026-11-24, 16:18 EST** | Arm connected to a Mac and calibrated, teleop working. Motor 7 (auger drive) tested from [`software/motor7_test.py`](../software/motor7_test.py): 90°, 360°, and a continuous 30 s spin at 7.5 RPM. Ready for auger spin tests. | — |
 | **2026-11-24, 13:55 EST** | Printed clay extruder body (side feed inlet + nozzle) mounted on the wrist of ARM3. Not yet tested with clay. | <img src="../images/status/arm-status-2026-11-24-1355.jpg" width="220"> |
 
 ## Concept
