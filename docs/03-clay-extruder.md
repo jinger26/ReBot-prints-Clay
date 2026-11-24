@@ -27,6 +27,8 @@ Reference designs we started from (not redistributed here — see original sourc
 
 ## Auger ↔ motor coupler
 
+> **Status: Jinger v0 — not used.** The couplers below were early explorations and are not part of the current build.
+
 The motor output has a **16-tooth spline**. We designed printed couplers to connect it to the auger, measuring the spline with calipers and iterating on fit.
 
 | File | Notes |
