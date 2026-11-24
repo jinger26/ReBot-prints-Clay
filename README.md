@@ -11,6 +11,10 @@ The repo has two goals:
 
 > This is an unofficial, community project. The official source of truth is the [Seeed Studio wiki](https://wiki.seeedstudio.com/rebot_b601_rs_getting_started/) and the [reBot-DevArm repository](https://github.com/Seeed-Projects/reBot-DevArm).
 
+<p align="center">
+<img src="images/concept.svg" alt="Concept: a 6-DOF robotic arm with a motor-driven auger extruder printing a stoneware vase" width="520">
+</p>
+
 ![reBot arm on the bench](images/assembly/PXL_20261122_210156305.jpg)
 
 ## Contents
