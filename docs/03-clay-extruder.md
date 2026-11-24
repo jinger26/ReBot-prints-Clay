@@ -14,7 +14,7 @@ Work in progress: turning the reBot B601-RS into a clay/paste 3D printer with an
 ## Concept
 
 - An **auger (screw) extruder** at the end of the arm pushes clay/paste through a nozzle.
-- Driven by a **geared NEMA 17 stepper** (`17HS19-1684S-PG5`).
+- Driven by **motor 7**, the arm's own RobStride RS-00 gripper motor, on the same CAN bus as the arm. Arm motion and extrusion can be controlled from one program. (An earlier plan used a separate geared NEMA 17 stepper, `17HS19-1684S-PG5`.)
 - The clay reservoir stays **off the arm** and is fed by hose, to keep wrist load low.
 
 ## Printed test parts
@@ -73,7 +73,7 @@ Findings:
 
 - The extruder STLs aren't in a shared coordinate system, so they don't form an assembly yet.
 - The extruder main body mesh isn't watertight; repair it before booleans or manufacturing.
-- The motor mount for the non-reduction motor may not fit the geared NEMA 17. Check the hole pattern, pilot, shaft and coupler.
+- *(Earlier NEMA 17 plan)* The motor mount for the non-reduction motor may not fit the geared NEMA 17. Check the hole pattern, pilot, shaft and coupler.
 - Wrist flange interface, attachment holes and tool center point (TCP) are still unverified.
 
 ## Next steps
