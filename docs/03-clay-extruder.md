@@ -4,6 +4,12 @@ Work in progress: turning the reBot B601-RS into a clay/paste 3D printer with an
 
 > ⚠️ Status: geometry review and fit tests. Nothing here is a load-rated, verified mount yet.
 
+## Status log
+
+| Date / time | Status | Photo |
+|---|---|---|
+| **2026-11-24, 13:55 EST** | Printed clay extruder body (side feed inlet + nozzle) mounted on the wrist of ARM3. Not yet tested with clay. | <img src="../images/status/arm-status-2026-11-24-1355.jpg" width="220"> |
+
 ## Concept
 
 - An **auger (screw) extruder** at the end of the arm pushes clay/paste through a nozzle.

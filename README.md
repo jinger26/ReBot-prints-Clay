@@ -22,7 +22,15 @@ Through this project, we hope to make robotic ceramic fabrication more accessibl
 <img src="images/concept.svg" alt="Concept: a 6-DOF robotic arm with a motor-driven auger extruder printing a stoneware vase" width="520">
 </p>
 
-![reBot arm on the bench](images/assembly/PXL_20261122_210156305.jpg)
+## Current status — arm modification
+
+**As of 2026-11-24, 13:55 EST:** the printed clay extruder body (with side feed inlet and nozzle) is mounted on the reBot B601-RS wrist. Not yet tested with clay.
+
+<p align="center">
+<img src="images/status/arm-status-2026-11-24-1355.jpg" alt="reBot B601-RS (ARM3) with the printed clay extruder body mounted on the wrist, 2026-11-24 13:55 EST" width="480">
+</p>
+
+See [docs/03-clay-extruder.md](docs/03-clay-extruder.md#status-log) for the full status log.
 
 ## Contents
 
