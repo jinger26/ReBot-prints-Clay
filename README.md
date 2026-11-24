@@ -4,10 +4,17 @@
 
 Community documentation for setting up and using the **Seeed Studio reBot Arm B601-RS** (6 joints + gripper, RobStride motors, CAN bus), written during *Fabricademy — Week 11: Open Source Hardware*.
 
-The repo has two goals:
+The repository is intended to serve as a living, open-source resource covering:
 
-1. **A practical getting-started guide** for the reBot B601-RS, condensed from the official Seeed wiki and tested on real hardware.
-2. **Documenting a clay / paste extruder end-effector** (auger + NEMA 17 motor) mounted on the arm, including printed couplers and design notes.
+- Robotic arm hardware and software configuration
+- Motion control and trajectory generation
+- Clay extrusion mechanism
+- Mechanical design and end-effector development
+- 3D printable components and CAD files
+- System integration and experimentation
+- Troubleshooting and lessons learned
+
+Through this project, we hope to make robotic ceramic fabrication more accessible, reproducible, and adaptable within the global Fab Lab and maker community.
 
 > This is an unofficial, community project. The official source of truth is the [Seeed Studio wiki](https://wiki.seeedstudio.com/rebot_b601_rs_getting_started/) and the [reBot-DevArm repository](https://github.com/Seeed-Projects/reBot-DevArm).
 
