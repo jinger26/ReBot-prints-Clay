@@ -1,4 +1,6 @@
-# reBot Arm B601-RS — Open Hardware Docs & Clay Extruder End-Effector
+# ReBot prints Clay
+
+**Turning the Seeed Studio reBot Arm B601-RS into a clay 3D printer — open hardware & software documentation.**
 
 Community documentation for setting up and using the **Seeed Studio reBot Arm B601-RS** (6 joints + gripper, RobStride motors, CAN bus), written during *Fabricademy — Week 11: Open Source Hardware*.
 
