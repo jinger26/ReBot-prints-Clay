@@ -40,6 +40,7 @@ See [docs/03-clay-extruder.md](docs/03-clay-extruder.md#status-log) for the full
 | [docs/02-software.md](docs/02-software.md) | SenseCraft Robotics (no-code), MotorBridge, calibration, LeRobot, ROS 2 |
 | [docs/03-clay-extruder.md](docs/03-clay-extruder.md) | Auger extruder end-effector: parts, coupler iterations, CAD review, open questions |
 | [docs/04-troubleshooting.md](docs/04-troubleshooting.md) | Common problems and fixes |
+| [software/](software/) | Python scripts: motor 7 test, home, circle path test |
 | [hardware/](hardware/) | Printable files we designed (auger couplers) |
 | [images/](images/) | Build photos |
 
