@@ -69,7 +69,7 @@ Built by a Fabricademy 2027 team:
 - Jinger Zeng — [@jinger26](https://github.com/jinger26)
 - [Myles Lack-Zell](https://gitlab.fabcloud.org/academany/fabricademy/2027/students/myles-zell)
 - [Prapawit Intun Pam](https://gitlab.fabcloud.org/academany/fabricademy/2027/students/prapawit-pam)
-- Kim Ducharme
+- [Kim Ducharme](https://class.textile-academy.org/2026/kim-ducharme/)
 
 ## Contributing
 
