@@ -62,6 +62,15 @@ Then zero-calibrate and write default parameters in [MotorBridge Studio](https:/
 - ROS 2 — [reBotArmController_ROS2](https://github.com/Seeed-Projects/reBotArmController_ROS2) · Python SDK [reBotArm_control_py](https://github.com/Seeed-Projects/reBotArm_control_py)
 - LeRobot — [Seeed fork](https://github.com/Seeed-Projects/lerobot) · [B601 robot plugin](https://github.com/Seeed-Projects/lerobot-robot-seeed-b601) · [Arm 102 teleop plugin](https://github.com/Seeed-Projects/lerobot-teleoperator-rebot-arm-102)
 
+## Team
+
+Built by a Fabricademy 2027 team:
+
+- Jinger Zeng — [@jinger26](https://github.com/jinger26)
+- [Myles Lack-Zell](https://gitlab.fabcloud.org/academany/fabricademy/2027/students/myles-zell)
+- [Prapawit Intun Pam](https://gitlab.fabcloud.org/academany/fabricademy/2027/students/prapawit-pam)
+- Kim Ducharme
+
 ## Contributing
 
 Issues and pull requests are welcome — especially corrections from people running the arm on different OSes, and alternative end-effectors.
