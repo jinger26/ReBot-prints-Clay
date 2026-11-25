@@ -97,7 +97,7 @@ Then zero-calibrate and write default parameters in [MotorBridge Studio](https:/
 Built by a Fabricademy 2027 team:
 
 - Jinger Zeng — [@jinger26](https://github.com/jinger26)
-- [Myles Lack-Zell](https://gitlab.fabcloud.org/academany/fabricademy/2027/students/myles-zell)
+- [Myles Lack-Zell](https://class.textile-academy.org/2027/myles-zell/)
 - [Prapawit Intun Pam](https://gitlab.fabcloud.org/academany/fabricademy/2027/students/prapawit-pam)
 - [Kim Ducharme](https://class.textile-academy.org/2026/kim-ducharme/)
 
