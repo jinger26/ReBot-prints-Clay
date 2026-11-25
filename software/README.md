@@ -2,7 +2,7 @@
 
 | Script | What it does | Hardware-tested |
 |---|---|---|
-| [`motor7_test.py`](motor7_test.py) | Turns motor 7 (gripper / auger motor) by a set angle (default 45° counter-clockwise), or spins it continuously with `--spin`. Only motor 7 is switched on. | ✅ 2026-11-24: 90°, 360°, 30 s spin at 7.5 RPM |
+| [`motor7_test.py`](motor7_test.py) | Turns motor 7 (gripper / auger motor) by a set angle (default 45° counter-clockwise), or spins it continuously with `--spin`. Only motor 7 is switched on. | ✅ 2026-11-24: 90°, 360°, 30 s spin at 7.5 RPM. Used to drive the auger in the [mashed potato extrusion test](../docs/05-mashed-potato-test.md). |
 | [`home.py`](home.py) | Slowly returns all 7 joints to home (0°). Shows what will move and asks for `GO`. | Not yet (checked up to the `GO` prompt) |
 | [`circle_test.py`](circle_test.py) | Traces a small horizontal circle in the air at constant height, speed and tool orientation. First printing-style motion test. | Not yet (planner verified offline) |
 

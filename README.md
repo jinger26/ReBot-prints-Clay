@@ -30,6 +30,15 @@ Through this project, we hope to make robotic ceramic fabrication more accessibl
 <img src="images/status/arm-status-2026-11-24-1355.jpg" alt="reBot B601-RS (ARM3) with the printed clay extruder body mounted on the wrist, 2026-11-24 13:55 EST" width="480">
 </p>
 
+### 🥔 2026-11-24, ~16:20–17:01 EST — First extrusion works!
+
+We extruded **mashed potato** (a stand-in for clay) through the arm's extruder. Compressed air pushed it from a cartridge through the hose, and **motor 7 turned the auger** (`motor7_test.py --spin`, arm held still). → [Mashed potato test write-up](docs/05-mashed-potato-test.md)
+
+<p align="center">
+<img src="images/mashpotato-test/PXL_20261124_215111917.jpg" alt="Mashed potato extruded from the hose and nozzle onto the print bed" width="320">
+<img src="images/mashpotato-test/PXL_20261124_214040450.jpg" alt="The team after the first extrusion test" width="320">
+</p>
+
 ### Progress — as of 2026-11-24, 16:18 EST
 
 What we've done so far:
@@ -38,7 +47,8 @@ What we've done so far:
 - ✅ **Calibration:** zero calibration and motor parameters in MotorBridge Studio. Per-motor zero re-set after swapping arms.
 - ✅ **Teleoperation** with the reBot Arm 102 leader arm in SenseCraft Robotics.
 - ✅ **Motor 7 (auger drive) tests:** 90° turn, a full 360° revolution, and a **continuous 30 s spin at 7.5 RPM (≈ 3.9 turns)**, run from our own Python script. **We can now run auger spin tests.**
-- 🔜 Next: spin the auger with clay off the arm (flow vs. RPM), then arm path tests (`circle_test.py`) and synchronised extrusion.
+- ✅ **First extrusion (mashed potato)** through the auger, fed by compressed air ([write-up](docs/05-mashed-potato-test.md)).
+- 🔜 Next: steady flow (air pressure + RPM), real clay, then moving the arm while extruding (`circle_test.py` + auger).
 
 Scripts and how to run them: [software/](software/). Full status log: [docs/03-clay-extruder.md](docs/03-clay-extruder.md#status-log).
 
@@ -50,6 +60,7 @@ Scripts and how to run them: [software/](software/). Full status log: [docs/03-c
 | [docs/02-software.md](docs/02-software.md) | SenseCraft Robotics (no-code), MotorBridge, calibration, LeRobot, ROS 2 |
 | [docs/03-clay-extruder.md](docs/03-clay-extruder.md) | Auger extruder end-effector: parts, coupler iterations, CAD review, open questions |
 | [docs/04-troubleshooting.md](docs/04-troubleshooting.md) | Common problems and fixes |
+| [docs/05-mashed-potato-test.md](docs/05-mashed-potato-test.md) | First extrusion test with mashed potato: setup, steps, results |
 | [software/](software/) | Python scripts: motor 7 test, home, circle path test |
 | [hardware/](hardware/) | Printable files we designed (auger couplers) |
 | [images/](images/) | Build photos |
