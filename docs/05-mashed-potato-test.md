@@ -1,6 +1,7 @@
 # 05 · First extrusion: mashed potato test
 
-**Date:** 2026-11-24, about 16:20–17:01 EST
+**Date:** 2026-11-24, about 16:20–17:01 EST  
+**Location:** Fab Hub Kendall, Cambridge, MA  
 **Result:** ✅ **Extrusion works.** Material went in through the hose, the auger (driven by motor 7) carried it through the printed extruder, and it came out of the nozzle.
 
 > 🎥 **Video:** [Watch the mashed potato extrusion test on YouTube](https://youtu.be/5tuex_aNPKw)
