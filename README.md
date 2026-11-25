@@ -32,7 +32,7 @@ Through this project, we hope to make robotic ceramic fabrication more accessibl
 
 ### 🥔 2026-11-24, ~16:20–17:01 EST — First extrusion works!
 
-We extruded **mashed potato** (a stand-in for clay) through the arm's extruder. Compressed air pushed it from a cartridge through the hose, and **motor 7 turned the auger** (`motor7_test.py --spin`, arm held still). → [Mashed potato test write-up](docs/05-mashed-potato-test.md)
+We extruded **mashed potato** (a stand-in for clay) through the arm's extruder. Compressed air pushed it from a cartridge through the hose, and **motor 7 turned the auger** (`motor7_test.py --spin`, arm held still). → [Mashed potato test write-up](docs/05-mashed-potato-test.md) · 🎥 [Video on YouTube](https://youtu.be/5tuex_aNPKw)
 
 <p align="center">
 <img src="images/mashpotato-test/PXL_20261124_215111917.jpg" alt="Mashed potato extruded from the hose and nozzle onto the print bed" width="320">

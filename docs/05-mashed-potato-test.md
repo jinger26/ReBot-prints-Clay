@@ -3,7 +3,7 @@
 **Date:** 2026-11-24, about 16:20–17:01 EST
 **Result:** ✅ **Extrusion works.** Material went in through the hose, the auger (driven by motor 7) carried it through the printed extruder, and it came out of the nozzle.
 
-> 🎥 Video: _YouTube link coming soon._
+> 🎥 **Video:** [Watch the mashed potato extrusion test on YouTube](https://youtu.be/5tuex_aNPKw)
 
 <p align="center">
 <img src="../images/mashpotato-test/PXL_20261124_215111917.jpg" alt="Mashed potato extruded from the hose and nozzle onto the print bed" width="520">
